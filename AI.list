@@ -1,3 +1,5 @@
+#OpenAi
+
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -21,5 +23,11 @@ DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+#you
+
 DOMAIN-SUFFIX,you.com
+
+#perplexity
+
 DOMAIN-SUFFIX,perplexity.ai
