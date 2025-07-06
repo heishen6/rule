@@ -1,5 +1,4 @@
-#OpenAi
-
+# OpenAi（新增）
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -24,5 +23,5 @@ DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
-#you
+# you（新增）
 DOMAIN-SUFFIX,you.com
