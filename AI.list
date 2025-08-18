@@ -1,4 +1,4 @@
-# OpenAi（新增）
+# OpenAi（surge 规则 - 更新版）
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -19,9 +19,19 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,o207216.ingest.sentry.io
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,setup.workos.com
+DOMAIN-SUFFIX,forwarder.workos.com
+DOMAIN-SUFFIX,workos.imgix.net
+DOMAIN-SUFFIX,cdn.workos.com
+DOMAIN-SUFFIX,images.workoscdn.com
+DOMAIN-SUFFIX,events.launchdarkly.com
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,app.launchdarkly.com
+DOMAIN-SUFFIX,ct.sendgrid.net
 
 # you（新增）
 DOMAIN-SUFFIX,you.com
