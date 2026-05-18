@@ -40,3 +40,16 @@ DOMAIN-SUFFIX,ct.sendgrid.net
 
 # you（新增）
 DOMAIN-SUFFIX,you.com
+
+# Claude / Anthropic（新增）
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,downloads.claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,code.claude.com
+DOMAIN-SUFFIX,platform.claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,bridge.claudeusercontent.com
